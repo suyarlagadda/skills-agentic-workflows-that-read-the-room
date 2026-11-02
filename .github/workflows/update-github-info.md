@@ -53,3 +53,4 @@ Mona's GitHub Info website based on official GitHub news.
 6. Otherwise, use the `create-pull-request` safe output to open a pull request
    for Mona to review. Describe the changes and cite the official sources in
    the PR body. Do not push directly to main, merge the PR, or publish changes.
+Open a pull request for Mona to review.
